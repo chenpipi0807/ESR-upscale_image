@@ -1,0 +1,31 @@
+Real-ESRGAN Image Upscaling Log
+Started at: 2025-07-29 12:05:41
+==================================================
+[2025-07-29 12:05:41] Starting image upscaling process...
+[2025-07-29 12:05:41] Input file: TEST.png
+[2025-07-29 12:05:41] Model: RealESRGAN_x4plus_anime_6B.pth
+[2025-07-29 12:05:41] Device: cpu
+[2025-07-29 12:05:41] Max resize dimension: 512
+[2025-07-29 12:05:41] Loading input image...
+[2025-07-29 12:05:41] Original image size: 144x148
+[2025-07-29 12:05:41] Resizing image to fit max dimension...
+[2025-07-29 12:05:41] Resized image size: 144x148 (scale factor: 3.459)
+[2025-07-29 12:05:41] Initializing Real-ESRGAN model...
+[2025-07-29 12:05:46] Model loaded in 5.03 seconds
+[2025-07-29 12:05:46] Starting image upscaling...
+[2025-07-29 12:05:47] Upscaling completed in 0.37 seconds
+[2025-07-29 12:05:47] Output image size: 576x592
+[2025-07-29 12:05:47] Saving output image as ESR-TEST.webp...
+[2025-07-29 12:05:47] Image saved in 0.13 seconds
+[2025-07-29 12:05:47] Total processing time: 5.55 seconds
+[2025-07-29 12:05:47] Process completed successfully!
+[2025-07-29 12:05:47] 
+==================================================
+[2025-07-29 12:05:47] SUMMARY:
+[2025-07-29 12:05:47] Input: TEST.png (144x148)
+[2025-07-29 12:05:47] Resized: 144x148
+[2025-07-29 12:05:47] Output: ESR-TEST.webp (576x592)
+[2025-07-29 12:05:47] Model loading time: 5.03s
+[2025-07-29 12:05:47] Upscaling time: 0.37s
+[2025-07-29 12:05:47] Saving time: 0.13s
+[2025-07-29 12:05:47] Total time: 5.55s

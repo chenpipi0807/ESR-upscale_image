@@ -9,6 +9,9 @@ This script uses the RealESRGAN_x4plus_anime_6B model to upscale images with the
 - Logs detailed timing information to `log.txt`
 - 4x upscaling using the anime-optimized model
 
+<img width="1182" height="2205" alt="deepseek_mermaid_20250729_d4582e" src="https://github.com/user-attachments/assets/de659d2e-4dab-4273-82a9-e471987d80bf" />
+
+
 ## Requirements
 - Python 3.7+
 - Dependencies listed in `requirements.txt`

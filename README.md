@@ -1,0 +1,2 @@
+# ESR-upscale_image
+此脚本使用RealESRGAN_x4plus_anime_6B模型对图像进行放大
